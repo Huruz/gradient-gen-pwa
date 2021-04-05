@@ -1,0 +1,22 @@
+{
+    "name": "Generador de Degradados App Vue",
+    "short_name": "Degradados Vue",
+    "description": "Generador de Degradados para CSS en Tiempo Real - Vue",
+    "background_color": "#00ffff",
+    "theme_color": "#525252",
+    "start_url": "./?umt_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "orientation": "portrait",
+    "display": "fullscreen",
+    "icons": [
+        {"src": "./img/coloricon16.png", "sizes": "16x16", "type": "image/png"},
+        {"src": "./img/coloricon32.png", "sizes": "32x32", "type": "image/png"},
+        {"src": "./img/coloricon64.png", "sizes": "64x64", "type": "image/png"},
+        {"src": "./img/coloricon128.png", "sizes": "128x128", "type": "image/png"},
+        {"src": "./img/maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+        {"src": "./img/coloricon256.png", "sizes": "256x256", "type": "image/png"},
+        {"src": "./img/coloricon512.png", "sizes": "512x512", "type": "image/png"},
+        {"src": "./img/coloricon1024.png", "sizes": "1024x1024", "type": "image/png"}
+    ]
+}
